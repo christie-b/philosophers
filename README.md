@@ -1,5 +1,7 @@
 # philosophers
 
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cboutier/Philosophers)](https://github.com/JaeSeoKim/badge42)
+
 Validated on November 21st, 2021
 
 100/100 
